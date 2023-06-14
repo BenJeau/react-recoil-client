@@ -50,6 +50,6 @@
   ],
   "dependencies": {
     "react-native-flipper": "^0.110.0",
-    "recoil": "^0.4.1"
+    "recoil": "^0.7.7"
   }
 }
